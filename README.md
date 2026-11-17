@@ -62,7 +62,7 @@ The SYNTERRA platform consists of four major layers:
 | React Native | Mobile application frontend |
 | Git | Version control |
 
-## 🔗 API Endpoint
+##  API Endpoint
 
 **Food Allocation API**
 
